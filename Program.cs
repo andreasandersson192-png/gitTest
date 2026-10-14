@@ -9,6 +9,9 @@
 
             Console.WriteLine( " HEj HEJ ");
 
+
+            Console.WriteLine("Hejsan svejsan");
+
         }
     }
 }
